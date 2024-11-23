@@ -164,6 +164,12 @@ color: #FFFFFF;
     line-height: 1.3;
   }
 
+  .place__frame {
+    margin-bottom: 50px;
+    max-width: 288px;
+    max-height: 48px;
+    margin: auto;
+  }
 
   .place__frame_parragraph {
     font-size: 0.88rem;
