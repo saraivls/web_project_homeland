@@ -10,11 +10,6 @@
     padding-bottom: 132px;
 }
 
-.photo-image {
-  max-width: 284px;
-  max-height: 213px;
-  object-fit: cover;
-}
 
 .place__title {
 width: 100%;
