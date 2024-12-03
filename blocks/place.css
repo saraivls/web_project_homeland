@@ -168,6 +168,7 @@ color: #FFFFFF;
     max-width: 288px;
     max-height: 48px;
     margin: auto;
+    background: linear-gradient(90deg, #0278fe40 0%, #003a7b40 99.98%);
     }
 
   .place__frame_parragraph {
