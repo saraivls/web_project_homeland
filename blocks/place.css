@@ -101,9 +101,7 @@ color: #FFFFFF;
     grid-area: description;
 }
 
-.p {
-    margin: 0;
-}
+
 
 .place__frame {
     min-width: 288px;
