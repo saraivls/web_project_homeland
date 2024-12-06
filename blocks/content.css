@@ -1,6 +1,4 @@
 .content {
-    margin: 0;
-    padding: 0;
-    display: grid;
+       display: grid;
     place-items: center;
   }
