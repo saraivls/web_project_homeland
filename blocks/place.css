@@ -15,7 +15,7 @@
 width: 100%;
 box-sizing: border-box;
 padding: 0 16px;
-font-family: 'Inter';
+font-family: 'Inter', Arial, Helvetica, sans-serif;
 font-weight: 900;
 font-size: 72px;
 line-height: 76px;
@@ -31,7 +31,7 @@ grid-area: title;
     width: 100%;
     box-sizing: border-box;
     max-width: 455.53px;
-    font-family: "Inter";
+    font-family: "Inter", Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -46,7 +46,7 @@ grid-area: title;
 
 .place__artist-title {
 width: 100%;
-font-family: 'Inter';
+font-family: 'Inter', Arial, Helvetica, sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 12px;
@@ -59,7 +59,7 @@ margin-bottom: 8px;
 
 .place__artist-author {
 width: 100%;
-font-family: 'Inter';
+font-family: 'Inter', Arial, Helvetica, sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -92,7 +92,7 @@ color: #FFFFFF;
     display: flex;
     flex-direction: column;
     gap: 25px;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -112,7 +112,7 @@ color: #FFFFFF;
     justify-content: center;
     align-items: center;
     color: white;
-    font-family: 'Inter';
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-size: 14px;
     font-weight: 600;
     line-height: 16.94px;
