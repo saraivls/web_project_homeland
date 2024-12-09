@@ -4,12 +4,13 @@ width: 100%;
 margin: auto;
 display: grid;
 gap: 16px;
-grid-template-columns: repeat(auto-fit, minmax(284px, 1fr));
+grid-template-columns:  repeat(auto-fit, minmax(230px, 2fr));
 padding-bottom: 132px;
+padding-left: 8px;
 }
 
 .photo-grid__image {
-    max-width: 284px;
+    max-width: 230px;
     max-height: 213px;
     object-fit: cover;
   }
